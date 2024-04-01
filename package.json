@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-icons-kit": "^2.0.0",
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1"
+  }
+}
